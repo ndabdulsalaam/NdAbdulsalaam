@@ -20,10 +20,10 @@ reliable enough for teams, and flexible enough to grow beyond an MVP.
 
 ## Selected Work
 
-- **RxChat Web:** AI pharmacy chat experience with streaming responses,
+- [RxChat](https://rxchat.fildah.com): AI Medication chat experience with streaming responses,
   anonymous/authenticated conversations, account flows, and healthcare-oriented
   safety boundaries.
-- **Fildah Web:** React/Vite public healthtech brand and product surface for
+- [Fildah]((https://fildah.com): React/Vite public healthtech brand and product surface for
   product pages, documentation, blog/update content, support, and account
   access.
 - [Healteex](https://github.com/NdAbdulsalaam/healteex): pharmaceutical
@@ -33,8 +33,8 @@ reliable enough for teams, and flexible enough to grow beyond an MVP.
 
 - **Backend:** Python, Django, Django REST Framework, PostgreSQL, SQLite
 - **Frontend:** React, Vite, JavaScript, HTML/CSS
-- **AI/Data:** OpenAI-compatible APIs, Qdrant, Pandas, NumPy, scikit-learn
-- **Tools:** Git, GitHub, Render, Vercel, Power BI, Excel
+- **AI/Data:** PyTorch, LLM, RAG, SDKs, Prefect, Qdrant, Docling
+- **Tools:** Git, GitHub, Docker, Render, Vercel, VPS
 
 ## Let's Build
 
@@ -46,4 +46,3 @@ product judgment.
 [LinkedIn](http://www.linkedin.com/in/ndabdulsalaam/) ·
 [Email](mailto:nurudeenm@fildah.com) ·
 [Portfolio](https://ndabdulsalaam.github.io/) ·
-[Kaggle](https://www.kaggle.com/nurudeenabdulsalaam/)
