@@ -23,9 +23,6 @@ reliable enough for teams, and flexible enough to grow beyond an MVP.
 - [RxChat Web](https://github.com/fildahs/rxchat-web): AI pharmacy chat
   experience with streaming responses, anonymous/authenticated conversations,
   account flows, and healthcare-oriented safety boundaries.
-- [Fildah API](https://github.com/fildahs/fildah-api): Django/DRF backend for
-  public health content, accounts, product APIs, streaming chat, and drug-data
-  workflows.
 - [Fildah Web](https://github.com/fildahs/fildah-web): React/Vite public
   healthtech brand and product surface for product pages, documentation,
   blog/update content, support, and account access.
@@ -45,7 +42,8 @@ I am open to conversations with founders and teams building practical healthtech
 products, especially where the work needs a mix of APIs, data, AI workflows, and
 product judgment.
 
-[LinkedIn](http://www.linkedin.com/in/NdAbdulsalaam/) ·
-[Email](mailto:ndabdulsalaam@gmail.com) ·
+[Fildah Page](http://www.linkedin.com/company/fildah/) ·
+[LinkedIn](http://www.linkedin.com/in/ndabdulsalaam/) ·
+[Email](mailto:nurudeenm@fildah.com) ·
 [Portfolio](https://ndabdulsalaam.github.io/) ·
 [Kaggle](https://www.kaggle.com/nurudeenabdulsalaam/)
