@@ -20,12 +20,12 @@ reliable enough for teams, and flexible enough to grow beyond an MVP.
 
 ## Selected Work
 
-- [RxChat Web](https://github.com/fildahs/rxchat-web): AI pharmacy chat
-  experience with streaming responses, anonymous/authenticated conversations,
-  account flows, and healthcare-oriented safety boundaries.
-- [Fildah Web](https://github.com/fildahs/fildah-web): React/Vite public
-  healthtech brand and product surface for product pages, documentation,
-  blog/update content, support, and account access.
+- **RxChat Web:** AI pharmacy chat experience with streaming responses,
+  anonymous/authenticated conversations, account flows, and healthcare-oriented
+  safety boundaries.
+- **Fildah Web:** React/Vite public healthtech brand and product surface for
+  product pages, documentation, blog/update content, support, and account
+  access.
 - [Healteex](https://github.com/NdAbdulsalaam/healteex): pharmaceutical
   supply-chain SaaS exploration.
 
