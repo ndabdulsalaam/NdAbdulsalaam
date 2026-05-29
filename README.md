@@ -23,7 +23,7 @@ reliable enough for teams, and flexible enough to grow beyond an MVP.
 - [RxChat](https://rxchat.fildah.com): AI Medication chat experience with streaming responses,
   anonymous/authenticated conversations, account flows, and healthcare-oriented
   safety boundaries.
-- [Fildah]((https://fildah.com): React/Vite public healthtech brand and product surface for
+- [Fildah](https://fildah.com): React/Vite public healthtech brand and product surface for
   product pages, documentation, blog/update content, support, and account
   access.
 - [Healteex](https://github.com/NdAbdulsalaam/healteex): pharmaceutical
