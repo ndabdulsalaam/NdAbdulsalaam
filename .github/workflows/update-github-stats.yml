@@ -36,9 +36,9 @@ jobs:
 
           curl -s "https://img.shields.io/badge/Public%20Repos-$REPOS-blue?style=flat-square&logo=github&logoColor=white" > badges/repos.svg
           curl -s "https://img.shields.io/badge/Followers-$FOLLOWERS-blue?style=flat-square&logo=github&logoColor=white" > badges/followers.svg
-          curl -s "https://img.shields.io/badge/Stars%20Received-$STARS-yellow?style=flat-square&logo=github&logoColor=white" > badges/stars-received.svg
-          curl -s "https://img.shields.io/badge/Stars%20Given-$STARS_GIVEN-yellow?style=flat-square&logo=github&logoColor=white" > badges/stars-given.svg
-          curl -s "https://img.shields.io/badge/Forks-$FORKS-orange?style=flat-square&logo=github&logoColor=white" > badges/forks.svg
+          curl -s "https://img.shields.io/badge/Stars%20Received-$STARS-orange?style=flat-square&logo=github&logoColor=white" > badges/stars-received.svg
+          curl -s "https://img.shields.io/badge/Stars%20Given-$STARS_GIVEN-orange?style=flat-square&logo=github&logoColor=white" > badges/stars-given.svg
+          curl -s "https://img.shields.io/badge/Forks-$FORKS-yellow?style=flat-square&logo=github&logoColor=white" > badges/forks.svg
 
       - name: Commit updated badges
         run: |
