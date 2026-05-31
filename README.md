@@ -55,17 +55,10 @@ to talk.
 
 ---
 
-## GitHub Stats
+# GitHub at a Glance
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ndabdulsalaam&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues"
-    height="165"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndabdulsalaam&layout=compact&theme=default&hide_border=true&langs_count=6"
-    height="165"
-    alt="Top languages"
-  />
-</p>
+![Repos](badges/repos.svg)
+![Followers](badges/followers.svg)
+![Stars Received](badges/stars-received.svg)
+![Stars Given](badges/stars-given.svg)
+![Forks](badges/forks.svg)
