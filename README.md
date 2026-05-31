@@ -58,7 +58,7 @@ to talk.
 # GitHub at a Glance
 
 ![Repos](badges/repos.svg)
-![Followers](badges/followers.svg)
 ![Stars Received](badges/stars-received.svg)
-![Stars Given](badges/stars-given.svg)
 ![Forks](badges/forks.svg)
+![Followers](badges/followers.svg)
+![Stars Given](badges/stars-given.svg)
