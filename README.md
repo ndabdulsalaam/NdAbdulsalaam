@@ -1,48 +1,71 @@
-# Hi, I'm Nurudeen Abdulsalaam
+# Nurudeen Abdulsalaam — Healthtech Builder
 
-I build practical healthtech systems: APIs, AI-assisted workflows, and data
+I build healthtech systems: APIs, AI-assisted workflows, and data
 products that help teams turn messy healthcare problems into usable software.
 
 My work sits where health domain problems meet backend engineering, data, and
 product delivery. I care about building systems that are clear enough for users,
 reliable enough for teams, and flexible enough to grow beyond an MVP.
 
+---
+
 ## What I Build
 
-- Healthtech APIs and backend services for product, content, auth, and data
-  workflows.
-- AI-assisted product experiences with careful safety boundaries and
-  human-readable outputs.
-- Data pipelines and analysis workflows that turn raw health/product data into
-  usable decision support.
-- Web product surfaces that help founders test, explain, and ship health ideas
-  faster.
+- **Healthtech APIs and backend services** for product, content, auth, and data workflows.
+- **AI-assisted product experiences** with careful safety boundaries and human-readable outputs.
+- **Data pipelines and analysis workflows** that turn raw health and product data into usable decision support.
+- **Web product surfaces** that help founders test, explain, and ship health ideas faster.
+
+---
 
 ## Selected Work
+- [Fildah](https://fildah.com): Digital healthtech brand and product surface for product pages, documentation, blog/update content, support, and account access.
+- [RxChat](https://rxchat.fildah.com): AI medication chat assistant with streaming responses, anonymous/authenticated conversations, account flows, and healthcare-oriented safety boundaries.
+- [SHODIC](https://github.com/ndabdulsalaam/SHODIC): Free, anonymous AI pharmacy chat app with RAG over drug data, streaming responses, and healthcare-oriented safety boundaries. Built with Django, React, and LLMs.
+- [Healteex](https://github.com/ndabdulsalaam/healteex): Pharmaceutical supply-chain SaaS for Nigeria — AI demand forecasting, inventory management, and DHIS2/OpenLMIS integration.
+- [CardioCare](https://cardio-care-tau.vercel.app): CVD risk assessment and management web app with personalised dashboards, lifestyle recommendations, and progress tracking.
 
-- [RxChat](https://rxchat.fildah.com): AI Medication chat experience with streaming responses,
-  anonymous/authenticated conversations, account flows, and healthcare-oriented
-  safety boundaries.
-- [Fildah](https://fildah.com): React/Vite public healthtech brand and product surface for
-  product pages, documentation, blog/update content, support, and account
-  access.
-- [Healteex](https://github.com/NdAbdulsalaam/healteex): pharmaceutical
-  supply-chain SaaS exploration.
+---
+
+## Data & Analysis
+
+Alongside product work, I do exploratory and epidemiological analysis on health
+and mobility datasets — including COPD mortality rate comparisons across the US
+and Uganda using WHO age-standardisation methodology, and a 5.9M-record EDA of
+Chicago Divvy bike-share data with marketing strategy recommendations.
+
+---
 
 ## Core Stack
 
 - **Backend:** Python, Django, Django REST Framework, PostgreSQL, SQLite
-- **Frontend:** React, Vite, JavaScript, HTML/CSS
-- **AI/Data:** PyTorch, LLM, RAG, SDKs, Prefect, Qdrant, Docling
+- **Frontend:** React, Vite, TypeScript, JavaScript, HTML/CSS
+- **AI/Data:** PyTorch, TensorFlow, RAG, LLM integration, Prefect, Qdrant, Docling
 - **Tools:** Git, GitHub, Docker, Render, Vercel, VPS
+
+---
 
 ## Let's Build
 
-I am open to conversations with founders and teams building practical healthtech
-products, especially where the work needs a mix of APIs, data, AI workflows, and
-product judgment.
+If you're a founder or team building a practical healthtech product — especially
+where the work spans APIs, data, AI workflows, and product judgment — I'd like
+to talk.
 
-[Fildah Page](http://www.linkedin.com/company/fildah/) ·
-[LinkedIn](http://www.linkedin.com/in/ndabdulsalaam/) ·
-[Email](mailto:nurudeenm@fildah.com) ·
-[Portfolio](https://ndabdulsalaam.github.io/) ·
+[Fildah](http://www.linkedin.com/company/fildah/) · [LinkedIn](http://www.linkedin.com/in/ndabdulsalaam/) · [Email](mailto:nurudeenm@fildah.com) · [Portfolio](https://ndabdulsalaam.github.io/)
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ndabdulsalaam&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues"
+    height="165"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndabdulsalaam&layout=compact&theme=default&hide_border=true&langs_count=6"
+    height="165"
+    alt="Top languages"
+  />
+</p>
