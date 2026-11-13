@@ -19,10 +19,9 @@ reliable enough for teams, and flexible enough to grow beyond an MVP.
 ---
 
 ## Selected Work
-- [Fildah](https://fildah.com): Digital healthtech brand and product surface for product pages, documentation, blog/update content, support, and account access.
+- [Fildah](https://fildah.com): Digital healthtech brand focusing on health accessibility
 - [RxChat](https://rxchat.fildah.com): AI medication chat assistant with streaming responses, anonymous/authenticated conversations, account flows, and healthcare-oriented safety boundaries.
-- [SHODIC](https://github.com/ndabdulsalaam/SHODIC): Free, anonymous AI pharmacy chat app with RAG over drug data, streaming responses, and healthcare-oriented safety boundaries. Built with Django, React, and LLMs.
-- [Healteex](https://github.com/ndabdulsalaam/healteex): Pharmaceutical supply-chain SaaS for Nigeria — AI demand forecasting, inventory management, and DHIS2/OpenLMIS integration.
+- [SHODIC](https://shodic.vercel.app/): Free, anonymous AI pharmacy chat app with RAG over drug data, streaming responses, and healthcare-oriented safety boundaries. Built with Django, React, and LLMs.
 - [CardioCare](https://cardio-care-tau.vercel.app): CVD risk assessment and management web app with personalised dashboards, lifestyle recommendations, and progress tracking.
 
 ---
