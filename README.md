@@ -56,10 +56,11 @@ to talk.
 
 # GitHub at a Glance
 
-These profile stats refresh automatically every 12 hours.
+Current public stats:
+
+![Stars Received](https://img.shields.io/badge/Stars%20Received-2-orange?style=flat-square&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/Followers-17-orange?style=flat-square&logo=github&logoColor=white)
 
 ![Repos](badges/repos.svg)
-![Stars Received](badges/stars-received.svg)
 ![Forks](badges/forks.svg)
-![Followers](badges/followers.svg)
 ![Stars Given](badges/stars-given.svg)
