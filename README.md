@@ -21,7 +21,7 @@ reliable enough for teams, and flexible enough to grow beyond an MVP.
 ## Selected Work
 - [Fildah](https://fildah.com): Digital healthtech brand focusing on health accessibility
 - [RxChat](https://rxchat.fildah.com): AI medication chat assistant with streaming responses, anonymous/authenticated conversations, account flows, and healthcare-oriented safety boundaries.
-- [SHODIC](https://shodic.vercel.app/): Free, anonymous AI pharmacy chat app with RAG over drug data, streaming responses, and healthcare-oriented safety boundaries. Built with Django, React, and LLMs.
+- [SHODIC](https://shodic.vercel.app/): Free, anonymous AI pharmacy chat app with RAG over drug data, streaming responses, and healthcare-oriented safety boundaries. Built with Django, React, and [...]
 - [CardioCare](https://cardio-care-tau.vercel.app): CVD risk assessment and management web app with personalised dashboards, lifestyle recommendations, and progress tracking.
 
 ---
@@ -55,6 +55,8 @@ to talk.
 ---
 
 # GitHub at a Glance
+
+These profile stats refresh automatically every 12 hours.
 
 ![Repos](badges/repos.svg)
 ![Stars Received](badges/stars-received.svg)
