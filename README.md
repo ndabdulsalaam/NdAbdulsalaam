@@ -56,11 +56,8 @@ to talk.
 
 # GitHub at a Glance
 
-Current public stats as reported by GitHub for this profile/repo:
-
-![Stars on this repo](https://img.shields.io/badge/Stars%20on%20this%20repo-2-orange?style=flat-square&logo=github&logoColor=white)
-![Followers](https://img.shields.io/badge/Followers-17-orange?style=flat-square&logo=github&logoColor=white)
-
 ![Repos](badges/repos.svg)
+![Stars Received](badges/stars-received.svg)
 ![Forks](badges/forks.svg)
+![Followers](badges/followers.svg)
 ![Stars Given](badges/stars-given.svg)
